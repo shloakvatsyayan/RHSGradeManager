@@ -1,6 +1,5 @@
 import json
 import streamlit as st
-import pandas as pd
 from streamlit_cookies_controller import CookieController
 from streamlit_option_menu import option_menu
 
